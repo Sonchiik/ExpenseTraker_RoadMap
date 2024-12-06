@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "date": "2024-12-06 12:20",
+        "description": "test2",
+        "amount": 20
+    },
+    {
+        "id": 2,
+        "date": "2024-12-06 12:20",
+        "description": "up",
+        "amount": 10,
+        "Update_date": "2024-12-06 12:36"
+    },
+    {
+        "id": 4,
+        "date": "2024-12-06 12:20",
+        "description": "test3",
+        "amount": 120
+    }
+]
